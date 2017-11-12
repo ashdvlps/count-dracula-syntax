@@ -2,12 +2,12 @@
   "name": "count-dracula-syntax",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "same theme like dracula but without italics or underlines",
+  "description": "Syntax theme like dracula but without italics or underlines",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/count-dracula-syntax",
+  "repository": "https://github.com/ashdvlps/count-dracula-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
