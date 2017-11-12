@@ -6,3 +6,9 @@ Also there is font antialiasing for macs.
 ## Screenshots
 ### Javascript
 ![Javascript](/images/javascript.jpg)
+
+### Python
+![python](/images/python.jpg)
+
+### HTML
+![html](/images/html.jpg)
